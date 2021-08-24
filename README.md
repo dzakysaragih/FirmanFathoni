@@ -1,5 +1,7 @@
-![Firman Fathoni's Card Name](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=firmanfathoni_&linkedin=Firman%20Fathoni&github=FirmanFathoni&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
+<!-- Name Card -->
+![Firman Fathoni's Name Card](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=firmanfathoni_&linkedin=Firman%20Fathoni&github=FirmanFathoni&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
+<!-- Socmed Button -->
 <div align="center">
    You can reach me here:<br><br>
   <a href="mailto:firmanfathoni@protonmail.com" style="text-decoration: none;">
@@ -28,13 +30,19 @@
 
 ---
 
+<!-- Activity Section -->
 <details>
-  <summary>More</summary>
-  <br />
+  <summary>Activity</summary>
+  <br/>
   <img src="https://lanyard-profile-readme.vercel.app/api/529270835341426708" alt="Discord Presence" />
+</details>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FirmanFathoni&theme=react&show_icons=true&custom_title=Firman%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
-
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=FirmanFathoni&hide_border=true&title_color=c9d1d9&text_color=c3c5cd"/>
+<!-- Stats Section -->
+<details>
+<summary>Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FirmanFathoni&hide_border=true&theme=react&show_icons=true&bg_color=1a1c1f&custom_title=Firman%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanFathoni&layout=compact&hide_border=true&theme=react&bg_color=1a1c1f" alt="Top Language" />
 </details>
 </div>
