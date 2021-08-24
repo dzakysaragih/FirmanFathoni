@@ -1,16 +1,40 @@
-### Hi there 👋
+![Firman Fathoni's Card Name](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=firmanfathoni_&linkedin=Firman%20Fathoni&github=FirmanFathoni&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
-<!--
-**FirmanFathoni/FirmanFathoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   You can reach me here:<br><br>
+  <a href="mailto:firmanfathoni@protonmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://twitter.com/firmanfathoni_" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="https://facebook.com/firmanfathoni1337" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <a href="https://instagram.com/firmanfathoni_" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+ <a href="https://linkedin.com/in/firmanfathoni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ <a href="https://t.me/FirmanFathoni" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+---
+
+<details>
+  <summary>More</summary>
+  <br />
+  <img src="https://lanyard-profile-readme.vercel.app/api/529270835341426708" alt="Discord Presence" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FirmanFathoni&theme=react&show_icons=true&custom_title=Firman%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
+
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=FirmanFathoni&hide_border=true&title_color=c9d1d9&text_color=c3c5cd"/>
+</details>
+</div>
