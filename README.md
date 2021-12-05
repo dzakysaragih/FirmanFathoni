@@ -30,11 +30,31 @@
 
 ---
 
+<details>
+<summary>&#128274; PGP Public Key</summary>
+
+```
+curl -sL https://git.io/JMdmw | gpg --import
+```
+or
+```
+gpg --import <(curl -sL https://git.io/JMdmw)
+```
+</details>
+
 <!-- Activity Section -->
 <details>
   <summary>Activity</summary>
   <br/>
   <img src="https://lanyard-profile-readme.vercel.app/api/529270835341426708" alt="Discord Presence" />
+  <br>
+  <br>
+  	&#127911; Now playing on Spotify :
+  <p align="center">
+    <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&redirect=true">
+        <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&cover_image=true&theme=novatorem"/>
+    </a>
+</p>
 </details>
 
 <!-- Stats Section -->
